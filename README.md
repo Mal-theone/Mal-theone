@@ -6,6 +6,8 @@
 
 ###
 
+## 🔧 Tech Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -21,6 +23,31 @@
 </div>
 
 ###
+
+## 🚀 Current Projects
+- **Atomic red Team** - Building an enviroment that will spin up a pentest on demmand to enhance detections
+- **Malware Analysis Lab** - Developing a containerized environment for safe malware examination and reverse engineering
+- **CLI Lookup tool** - Creating real-time tool to anlayze IOC artifacts
+
+###
+
+## 🎓 Current Certification Pursuit
+**SC-200 (Microsoft Certified: Security Operations Analyst Associate)** - Mastering Microsoft Sentinel, Defender suite, and cloud-native security operations to enhance threat detection, investigation, and response capabilities across hybrid environments
+
+###
+
+## 🏗️ Big Project - Need Collaboration!
+**Enterprise DFIR Automation Suite** - Developing a comprehensive digital forensics and incident response platform that integrates:
+- Automated evidence collection and preservation
+- AI-powered threat classification
+- Real-time forensic timeline generation
+- Multi-platform artifact analysis
+
+*Looking for contributors with experience in forensic tool development, machine learning for cybersecurity, or cloud infrastructure automation. Let's connect if you're interested in collaborating!*
+
+###
+
+## 📫 Connect With Me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
